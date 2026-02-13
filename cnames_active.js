@@ -1297,6 +1297,7 @@ var cnames_active = {
   "glottologist": "arguiot.github.io/Glottologist",
   "glyph": "zyrouge.github.io/glyph.css",
   "gmxcss": "cname.vercel-dns.com", // noCF
+  "gn1024": "gn1024.github.io/my-web-front",
   "gnatale": "giosooul.github.io/gnatale.github.io",
   "go": "northwoodssoftware.github.io/go.js.org",
   "god": "godow.github.io",
